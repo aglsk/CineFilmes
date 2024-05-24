@@ -16,10 +16,10 @@
 ## Capturas de Tela
 
 ### Tela de Login
-![Tela de Pesquisa](screenshot1.png)
+![Tela de Pesquisa](screenshot1.jpg)
 
 ### Tela de Cadastro
-![Resultados da Pesquisa](screenshot2.png)
+![Resultados da Pesquisa](screenshot2.jpg)
 
 ### Tela de Resert Senha
-![Detalhes do Filme](screenshot3.png)
+![Detalhes do Filme](screenshot3.jpg)
